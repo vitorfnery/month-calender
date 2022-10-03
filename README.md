@@ -6,7 +6,7 @@
 
 A responsive month calendar
 
-[🔗 Click here to access / Clique aqui para acessar](https://clock-vitorfnery.netlify.app/)
+[🔗 Click here to access / Clique aqui para acessar](https://month-calendar-vitorfnery.netlify.app/)
 
 ## 🛠️ Technologies / Tecnologias
 
