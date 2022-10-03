@@ -4,7 +4,7 @@
 
 > # Description / Descrição
 
-A month calendar
+A responsive month calendar
 
 [🔗 Click here to access / Clique aqui para acessar](https://clock-vitorfnery.netlify.app/)
 
