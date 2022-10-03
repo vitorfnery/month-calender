@@ -14,7 +14,7 @@
   align-items: center;
 }
 
-.calender {
+.calendar {
   background-color: black;
   color: lightgray;
   width: 450px;
@@ -89,7 +89,7 @@
 /* Responsiveness for small screens*/
 
 @media only screen and (max-width: 480px) {
-  .calender {
+  .calendar {
     width: 340px;
     height: auto;
   }
